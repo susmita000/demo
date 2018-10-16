@@ -6,7 +6,7 @@ public class Example {
 	public int add(int i,int j) {
 		this.i=i;
 		this.j=j;
-		return add(10, 20);
+		return add(100, 20);
 		
 	}
 
